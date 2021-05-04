@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello World
+## Hello World
 ### A GitHub site for my current projects.
 
 [Projects](https://eilishrose.github.io/projects.html "Projects")  
