@@ -17,4 +17,4 @@ The module materials guide us through creating a model with agents.
 
 Above is a screenshot of the model after it has run 100 iterations with 10 agents
 
-[Click here] to access the repo on github(https://github.com/eilishrose/5003Portfolio "5003Portfolio")  
+[Click here to access the repo on github] (https://github.com/eilishrose/5003Portfolio "5003Portfolio")  
