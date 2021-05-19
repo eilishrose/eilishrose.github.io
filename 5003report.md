@@ -26,14 +26,18 @@ I wanted to be able to set the position that the code runs from, as re-running a
 
 ## Sources
 ### iPyWidgets
-- Button styling - https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Styling.html
-- IntSlider - https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
+[Button styling](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Styling.html)
+
+[IntSlider](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html)
 
 ### MatPlotLib
-- ColourMap styling: https://matplotlib.org/stable/gallery/color/colormap_reference.html
-- Adding a map title: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html
-###Other
-- Adding in JS script to execute cells below button - https://stackoverflow.com/questions/32714783/ipython-run-all-cells-below-from-a-widget
+[ColourMap styling](https://matplotlib.org/stable/gallery/color/colormap_reference.html)
+
+[Adding a map title](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html)
+
+### Other
+
+[Adding in JS script to execute cells below button](https://stackoverflow.com/questions/32714783/ipython-run-all-cells-below-from-a-widget)
 
 ## Software development process followed
 I initially started compiling the code within Spyder for testing purposes, working with the CSV import code used in the first assignment, however I hit some issues with the data type when importing, and decided on using NumPy instead to handle the data within the provided CSV files. Using NumPy, I was able to import the files with a smaller amount of code.
