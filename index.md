@@ -6,7 +6,8 @@ layout: default
 ### A GitHub site for my current projects.
 
 [GEOG5003: Portfolio](https://eilishrose.github.io/5003portfolio.html "5003 Portfolio")  
-[GEOG5003: Report](https://eilishrose.github.io/5003report.html "5003 Report")  
+[GEOG5003: Report](https://eilishrose.github.io/5003report.html "5003 Report") 
+[GEOG5009: Portfolio](https://eilishrose.github.io/5009Portfolio.html "5009 Portfolio")
 
 
 I am a University of Leeds student currently studying Geographic Information Science Msc. Professionally I work as the in house GIS Product owner for one fo the largest real estate companies worldwide. This is my place to document projects completed during my time at university. 
