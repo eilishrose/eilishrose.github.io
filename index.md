@@ -6,7 +6,9 @@ layout: default
 ### A GitHub site for my current projects.
 
 [GEOG5003: Portfolio](https://eilishrose.github.io/5003portfolio.html "5003 Portfolio")  
+
 [GEOG5003: Report](https://eilishrose.github.io/5003report.html "5003 Report") 
+
 [GEOG5009: Portfolio](https://eilishrose.github.io/5009Portfolio.html "5009 Portfolio")
 
 
